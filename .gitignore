@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+client_secrets.json
+.vagrant
+Vagrantfile
+pg_config
