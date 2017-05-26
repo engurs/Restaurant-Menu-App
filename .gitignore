@@ -4,3 +4,5 @@ client_secrets.json
 .vagrant
 Vagrantfile
 pg_config
+.idea
+fb_client_secrets.json
